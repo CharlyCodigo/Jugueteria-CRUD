@@ -1,0 +1,35 @@
+.app
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+.tabla
+{
+    border: solid 1px black;
+    height: 100%;
+    width: 70%;
+}
+.div-titulo
+{
+    
+    justify-content: space-between;
+    padding-bottom: 10px;
+    display: flex;
+    width: 70%;
+}
+.parrafo-tabla
+{
+    font-family: "Nunito Sans",sans-serif;
+    font-size: 1.25rem;
+    height: 100%;
+    width: 70%;
+    font-weight: 600;
+
+}
+.boton-tabla
+{   
+    width: 10%;
+}
